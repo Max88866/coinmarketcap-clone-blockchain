@@ -9,7 +9,7 @@ export const CoinMarketProvider = ({ children }: any) => {
         "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest",
         {
           headers: {
-            "X-CMC_PRO_API_KEY": "CMC_PRO_API_KEY",
+            "X-CMC_PRO_API_KEY": "abc113e5-3acc-46fc-b922-dc055b288591",
           },
         }
       );
