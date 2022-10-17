@@ -9,7 +9,7 @@ export default function handler({ req, res }: any) {
         },
       }
     );
-    console.log(response, "123");
+
     const data = await response.json();
   };
 
