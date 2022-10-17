@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Search from "../assets/svg/search";
+// import { ConnectButton } from "web3uikit";
 
 const styles = {
   navLink: `text-white flex mx-[10px]`,
